@@ -1,0 +1,18 @@
+[
+    {
+        "todo": "eat dinner",
+        "status": false
+    },
+    {
+        "todo": "another example",
+        "status": false
+    },
+    {
+        "todo": "wake up",
+        "status": true
+    },
+    {
+        "todo": "wake up",
+        "status": true
+    }
+]
